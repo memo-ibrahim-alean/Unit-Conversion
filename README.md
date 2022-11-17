@@ -49,10 +49,4 @@ Users should be able to:
 
 With this project I improved a lot my JS skills.
 
-### Continued development
-
-I'd like to:
-
-- Give the ability to select which leads to remove from the list
-- Improve UI
 
